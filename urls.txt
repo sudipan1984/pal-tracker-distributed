@@ -1,0 +1,6 @@
+https://registration-pal-{UNIQUE_IDENTIFIER}.{DOMAIN}/users/{USER_ID}
+https://registration-pal-{UNIQUE_IDENTIFIER}.{DOMAIN}/accounts?ownerId={USER_ID}
+https://registration-pal-{UNIQUE_IDENTIFIER}.{DOMAIN}/projects?accountId={ACCOUNT_ID}
+https://allocations-pal-{UNIQUE_IDENTIFIER}.{DOMAIN}/allocations?projectId={PROJECT_ID}
+https://backlog-pal-{UNIQUE_IDENTIFIER}.{DOMAIN}/stories?projectId={PROJECT_ID}
+https://timesheets-pal-{UNIQUE_IDENTIFIER}.{DOMAIN}/time-entries?userId={USER_ID}
